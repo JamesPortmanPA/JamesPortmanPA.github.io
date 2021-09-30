@@ -1,1 +1,8 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+
+theme: minima
+title: Example Site using
+header_pages:
+  - about.md
+  - me.md
+  
